@@ -6,12 +6,14 @@ from jsonschema import validate, Draft7Validator
 class Json_reader:
 
     @staticmethod
-    def get_schema(schema):
-        with open(schema,'r') as file:
-            schema = json.load(file)
-            return schema
+    def validate_schema(json_file_name,response_data):
+        file_path = f"/Users/user/PycharmProjects/API_personal_framework/piyush_apis_framework/schema/{json_file_name}"
+        with open(file_path, 'r') as schema_file:
 
-    @staticmethod
-    def validate_schema(json_data, schema):
-        schema = Json_reader.get_schema(schema)
-        return validate(instance=json_data, schema=schema)
+            schema = json.load(schema_file)
+        try:
+            validate(instance=response_data, schema=schema)
+            print("Validation succesfull")
+        except Exception as E:
+            print("validation Unsuccesfull", E)
+

@@ -11,18 +11,16 @@ class Test_API:
     def test_01_get_single_userdata(self):
         response = APIrequests.get_api(f"{BASE_URL}{Endpoints.SINGLE_USER_API}")
         print(response.json())
-        json_data = response.json()
-        print(response.json()['data']['id'])
-        with open("/Users/user/PycharmProjects/API_personal_framework/piyush_apis_framework/schema/valid_getApi_single_user_schema.json", 'r') as schema_file:
-            schema = json.load(schema_file)
-        validate(instance=response.json(), schema=schema)
+        Json_reader.validate_schema("valid_getApi_single_user_schema.json", response.json())
         id = type(response.json()['data']['id'])
-        assert  id == int
+        assert id == int
 
     def test_02_post_new_user(self):
         payload = Payload.new_user("piyush","QA Automation Tester")
         response = APIrequests.post_api(f"{BASE_URL}{Endpoints.CREATE_NEW_USER}", payload)
         print(response.json())
+        Json_reader.validate_schema("valid_postApi_create_new_user_schema.json", response.json())
+        assert type(response.json()['name']) == str
         assert response is not None
         assert response.status_code == 201
 
