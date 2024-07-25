@@ -5,10 +5,12 @@ class APIrequests:
     logs = Loggen.logger()
 
     @staticmethod
-    def get_api(url):
+    def get_api(url, header=None):
         """Sends a GET request and logs the URL and response."""
+        if header is None:
+            header = {}
         try:
-            response = requests.get(url)
+            response = requests.get(url, header)
             APIrequests.logs.info(f"URL:----{url} and Response:----{response}")
             return response
         except RequestException as R:
@@ -18,7 +20,7 @@ class APIrequests:
     def post_api(url, payload, header={}):
         """Sends a POST request and logs the URL, payload, and headers."""
         try:
-            response = requests.post(url, data=payload, headers=header)
+            response = requests.post(url, json=payload, headers=header)
             APIrequests.logs.info(f"URL:----{url} data_payload:----{payload} header:----{header}")
             return response
         except RequestException as R:

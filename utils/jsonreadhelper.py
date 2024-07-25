@@ -15,8 +15,8 @@ class Json_reader:
             logs.info(f"taking a file from schema file name is {json_file_name}")
             schema = json.load(schema_file)
         try:
-            validator=validate(instance=response_data, schema=schema)
-            logs.info(f"Validation is successful{validator}")
+            validate(instance=response_data, schema=schema)
+            logs.info(f"Validation is successful")
         except Exception as E:
             logs.error("Validation is Unsucessful: ", E)
 

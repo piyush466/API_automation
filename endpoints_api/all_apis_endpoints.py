@@ -1,3 +1,7 @@
+import os
+from dotenv import load_dotenv, dotenv_values
+load_dotenv()
+
 class Endpoints:
     """
     Endpoints class for storing API endpoint URLs.
@@ -6,7 +10,7 @@ class Endpoints:
     Each constant represents a specific API endpoint URL.
     """
 
-    BASE_URL = "https://reqres.in/api"
+    BASE_URL = os.getenv("url")
     """Base URL for the API."""
 
     URL_SINGLE_USER_API = BASE_URL + "/users/2"

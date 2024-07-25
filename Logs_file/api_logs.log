@@ -22,3 +22,1373 @@
 2024-07-25 13:10:40,557 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
 2024-07-25 13:10:40,559 - utils.generate_logs - INFO - Validation is successfulNone
 2024-07-25 13:10:40,559 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 14:02:08,239 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 14:02:08,239 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 14:02:08,239 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 14:02:08,241 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 14:02:08,241 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 14:18:43,493 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:19:02,795 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:20:13,474 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:20:44,407 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:21:23,279 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:23:01,368 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:25:23,033 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:25:58,104 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:31:01,315 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:31:53,034 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:32:14,006 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:33:26,146 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:34:18,736 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:34:32,823 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:36:34,962 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 14:39:31,211 - utils.generate_logs - INFO - URL:----https://dummy.restapiexample.com/api/v1/employees and Response:----<Response [406]>
+2024-07-25 15:19:04,003 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:22:41,218 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:25:25,923 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:25:38,779 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:27:24,473 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:27:24,479 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:27:24,479 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:27:24,505 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 15:27:24,505 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 15:27:41,193 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:27:41,198 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:27:41,198 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:28:33,304 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:28:33,306 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:28:33,306 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:28:33,336 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 15:28:33,336 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 15:50:54,841 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:52:38,383 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:52:38,385 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:52:38,385 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:52:38,390 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 15:52:38,390 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 15:54:18,700 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:54:18,702 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:54:18,702 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:54:18,714 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 15:54:18,714 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 15:54:57,962 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:54:57,964 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:54:57,964 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:54:57,979 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 15:54:57,979 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 15:55:43,722 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 15:55:43,724 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:55:43,724 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 15:55:43,742 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 15:55:43,742 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:07:12,585 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'testing'} header:----{}
+2024-07-25 16:08:20,882 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'testing'} header:----{}
+2024-07-25 16:09:31,636 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'Jim', 'lastname': 'Brown', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:11:59,715 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'Jim', 'lastname': 'Brown', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:13:19,718 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'Jim', 'lastname': 'Brown', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:14:51,391 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'Jim', 'lastname': 'Brown', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:21:32,560 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'Jim', 'lastname': 'Brown', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:26:02,602 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:28:52,057 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:28:52,058 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:28:52,058 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:35:12,741 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:35:12,742 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:35:12,742 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:38:55,173 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:38:55,175 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:38:55,175 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:40:17,060 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 16:40:17,063 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 16:40:17,063 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 16:40:17,098 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:40:17,098 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:40:18,116 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:40:18,116 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:40:30,008 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:40:57,502 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:41:06,794 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:42:03,481 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:42:03,482 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:42:03,482 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:42:03,483 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:42:03,483 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:42:19,604 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:42:19,605 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:42:19,605 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:42:19,606 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:42:19,606 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:43:46,999 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:43:47,000 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:43:47,000 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:43:47,002 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:43:47,002 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:44:03,862 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:44:03,863 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:44:03,863 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:44:03,865 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:44:03,865 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:47:25,640 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:47:25,641 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:47:25,641 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:47:25,642 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:47:25,642 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:47:39,582 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:47:39,583 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:47:39,583 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:47:39,584 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:47:39,584 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:59:58,872 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 16:59:58,873 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:59:58,873 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 16:59:58,874 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 16:59:58,874 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:00:56,186 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:00:56,187 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:00:56,187 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:00:56,189 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:00:56,189 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:00:57,185 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/4783 and Response:----<Response [200]>
+2024-07-25 17:00:57,185 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/4783 and Response:----<Response [200]>
+2024-07-25 17:01:37,225 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:01:37,226 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:01:37,226 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:01:37,227 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:01:37,227 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:01:38,177 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/87 and Response:----<Response [200]>
+2024-07-25 17:01:38,177 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/87 and Response:----<Response [200]>
+2024-07-25 17:02:16,531 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:02:16,532 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:02:16,532 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:02:16,534 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:02:16,534 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:02:23,696 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:02:23,696 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:02:23,696 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:02:23,697 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:02:23,697 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:03:57,057 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:03:57,058 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:03:57,058 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:03:57,059 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:03:57,059 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:03:58,030 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/1276 and Response:----<Response [200]>
+2024-07-25 17:03:58,030 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/1276 and Response:----<Response [200]>
+2024-07-25 17:04:50,852 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:04:50,853 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:04:50,853 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:04:50,854 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:04:50,854 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:04:51,852 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/1730 and Response:----<Response [200]>
+2024-07-25 17:04:51,852 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/1730 and Response:----<Response [200]>
+2024-07-25 17:04:59,744 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:04:59,745 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:04:59,745 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:04:59,746 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:04:59,746 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:05:00,696 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/1809 and Response:----<Response [200]>
+2024-07-25 17:05:00,696 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/1809 and Response:----<Response [200]>
+2024-07-25 17:07:48,316 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:07:48,319 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:07:48,319 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:07:48,348 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:07:48,348 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:07:49,400 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:07:49,400 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:07:49,401 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:07:49,401 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:07:49,401 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:07:49,402 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:07:49,402 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:07:49,402 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:07:50,347 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3259 and Response:----<Response [200]>
+2024-07-25 17:07:50,347 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3259 and Response:----<Response [200]>
+2024-07-25 17:07:50,347 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3259 and Response:----<Response [200]>
+2024-07-25 17:09:35,388 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:09:35,389 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:09:35,389 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:09:35,390 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:09:35,390 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:09:36,340 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/4159 and Response:----<Response [200]>
+2024-07-25 17:09:36,340 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/4159 and Response:----<Response [200]>
+2024-07-25 17:12:30,290 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:12:30,291 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:12:30,291 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:12:30,293 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:12:30,293 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:12:31,208 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/544 and Response:----<Response [200]>
+2024-07-25 17:12:31,208 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/544 and Response:----<Response [200]>
+2024-07-25 17:12:31,208 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:12:31,208 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:12:31,208 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:13:43,486 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:13:43,488 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:13:43,488 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:13:43,490 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:13:43,490 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:13:44,462 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/1158 and Response:----<Response [200]>
+2024-07-25 17:13:44,462 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/1158 and Response:----<Response [200]>
+2024-07-25 17:13:44,462 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:13:44,462 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:13:44,462 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:13:44,463 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:13:44,463 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:13:44,463 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:17:48,018 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:17:48,019 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:17:48,019 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:17:48,021 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:17:48,021 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:17:48,969 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3258 and Response:----<Response [200]>
+2024-07-25 17:17:48,969 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3258 and Response:----<Response [200]>
+2024-07-25 17:17:48,969 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:17:48,969 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:17:48,969 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:20:27,693 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:20:27,717 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:20:27,717 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:20:27,734 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:20:27,734 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:21:12,195 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:21:12,196 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:21:12,196 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:21:12,197 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:21:12,197 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:25:10,586 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:25:10,587 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:25:10,587 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:25:10,588 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:25:10,588 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:31:09,282 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:31:09,283 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:31:09,283 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:31:09,284 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:31:09,284 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:33:03,729 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:33:03,730 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:33:03,730 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:33:03,731 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:33:03,731 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:33:41,499 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:33:41,500 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:33:41,500 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:33:41,501 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:33:41,501 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:34:06,801 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:34:06,802 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:34:06,802 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:34:06,803 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:34:06,803 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:34:07,667 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/763 and Response:----<Response [403]>
+2024-07-25 17:34:07,667 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/763 and Response:----<Response [403]>
+2024-07-25 17:39:01,510 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:39:01,511 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:39:01,511 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:39:01,512 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:39:01,512 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:39:02,469 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3272 data_payload:----{'firstname': 'James', 'lastname': 'Brown', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:39:02,469 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3272 data_payload:----{'firstname': 'James', 'lastname': 'Brown', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:29,988 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [200]>
+2024-07-25 17:47:31,621 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users data_payload:----{'name': 'piyush', 'job': 'QA Automation Tester'} header:----{}
+2024-07-25 17:47:31,621 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users data_payload:----{'name': 'piyush', 'job': 'QA Automation Tester'} header:----{}
+2024-07-25 17:47:32,079 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:47:32,079 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:47:32,079 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:47:33,418 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:47:33,418 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:47:33,418 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:47:33,418 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:47:33,651 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:47:33,651 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:47:33,651 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:47:33,651 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:47:34,820 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:47:34,820 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:47:34,820 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:47:34,820 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:47:34,820 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:47:35,190 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:47:35,190 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:47:35,190 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:47:35,190 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:47:35,190 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:47:35,190 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:47:36,276 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:47:36,276 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:47:36,276 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:47:36,276 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:47:36,276 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:47:36,276 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:47:36,276 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:47:36,645 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:47:36,645 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:47:36,645 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:47:36,645 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:47:36,645 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:47:36,645 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:47:36,645 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:47:36,645 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:47:39,002 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:47:39,002 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:47:39,002 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:47:39,002 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:47:39,002 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:47:39,002 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:47:39,002 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:47:39,002 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:47:39,002 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:47:40,220 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:47:40,220 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:47:40,220 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:47:40,220 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:47:40,220 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:47:40,220 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:47:40,220 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:47:40,220 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:47:40,220 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:47:40,220 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:47:40,254 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:47:40,254 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:47:40,254 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:47:40,254 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:47:40,254 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:47:40,254 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:47:40,254 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:47:40,254 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:47:40,254 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:47:40,254 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:47:40,254 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:47:40,282 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:40,282 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:40,282 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:40,282 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:40,282 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:40,282 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:40,282 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:40,282 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:40,282 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:40,282 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:40,282 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,236 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:41,237 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,159 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,160 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:42,161 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,144 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/3199 and Response:----<Response [200]>
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,145 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:47:43,146 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:29,655 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [200]>
+2024-07-25 17:51:29,656 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_single_user_schema.json
+2024-07-25 17:51:29,656 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_single_user_schema.json
+2024-07-25 17:51:29,658 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:29,658 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:30,305 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users data_payload:----{'name': 'piyush', 'job': 'QA Automation Tester'} header:----{}
+2024-07-25 17:51:30,305 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users data_payload:----{'name': 'piyush', 'job': 'QA Automation Tester'} header:----{}
+2024-07-25 17:51:30,305 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_user_schema.json
+2024-07-25 17:51:30,305 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_user_schema.json
+2024-07-25 17:51:30,305 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_user_schema.json
+2024-07-25 17:51:30,306 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:30,306 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:30,306 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:30,857 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:51:30,857 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:51:30,857 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:51:30,858 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:51:30,858 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:51:30,858 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:51:30,858 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:51:30,859 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:30,859 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:30,859 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:30,859 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:31,231 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:51:31,231 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:51:31,231 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:51:31,231 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:51:31,346 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:51:31,346 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:51:31,346 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:51:31,346 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:51:31,346 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:51:31,346 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:51:31,346 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:51:31,346 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:51:31,346 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:51:31,349 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:31,349 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:31,349 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:31,349 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:31,349 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,013 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:51:34,013 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:51:34,013 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:51:34,013 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:51:34,013 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:51:34,013 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:34,013 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:34,013 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:34,013 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:34,013 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:34,013 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:34,014 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,014 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,014 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,014 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,014 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,014 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,389 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:34,389 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:34,389 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:34,389 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:34,389 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:34,389 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:34,390 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:34,390 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:34,390 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:34,390 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:34,390 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:34,390 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:34,390 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:34,391 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,391 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,391 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,391 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,391 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,391 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,391 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:34,883 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:34,885 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,885 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,885 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,885 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,885 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,885 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,885 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:34,885 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:35,425 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:35,425 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:35,425 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:35,425 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:35,425 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:35,425 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:35,425 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:35,425 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:35,426 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:35,426 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:35,426 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:35,426 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:35,426 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:35,426 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:35,426 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:35,426 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:35,426 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:35,427 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:35,427 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:35,427 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:35,427 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:35,427 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:35,427 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:35,427 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:35,427 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:35,427 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:51:37,968 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:51:37,971 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:37,971 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:37,971 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:37,971 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:37,971 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:37,971 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:37,971 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:37,971 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:37,971 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:37,971 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:39,637 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:51:39,637 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:51:39,637 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:51:39,637 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:51:39,637 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:51:39,637 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:51:39,637 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:51:39,637 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:51:39,637 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:51:39,637 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:51:39,662 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:51:39,662 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:51:39,662 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:51:39,662 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:51:39,662 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:51:39,662 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:51:39,662 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:51:39,662 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:51:39,662 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:51:39,662 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:51:39,662 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:51:39,710 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:39,710 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:39,710 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:39,710 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:39,710 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:39,710 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:39,710 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:39,710 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:39,710 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:39,710 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:39,710 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,682 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:43,684 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,600 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,601 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:44,602 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/31 and Response:----<Response [200]>
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,611 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:45,613 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:54,842 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [200]>
+2024-07-25 17:51:54,843 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_single_user_schema.json
+2024-07-25 17:51:54,843 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_single_user_schema.json
+2024-07-25 17:51:54,844 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:54,844 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:55,215 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users data_payload:----{'name': 'piyush', 'job': 'QA Automation Tester'} header:----{}
+2024-07-25 17:51:55,215 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users data_payload:----{'name': 'piyush', 'job': 'QA Automation Tester'} header:----{}
+2024-07-25 17:51:55,215 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_user_schema.json
+2024-07-25 17:51:55,215 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_user_schema.json
+2024-07-25 17:51:55,215 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_user_schema.json
+2024-07-25 17:51:55,217 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:55,217 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:55,217 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:55,755 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:51:55,755 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:51:55,755 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:51:55,756 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:51:55,756 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:51:55,756 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:51:55,756 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:51:55,757 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:55,757 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:55,757 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:55,757 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:57,353 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:51:57,353 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:51:57,353 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:51:57,353 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:51:57,892 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:51:57,892 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:51:57,892 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:51:57,892 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:51:57,892 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:51:57,892 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:51:57,892 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:51:57,892 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:51:57,892 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:51:57,895 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:57,895 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:57,895 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:57,895 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:57,895 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,274 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:51:58,274 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:51:58,274 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:51:58,274 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:51:58,274 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:51:58,275 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:58,275 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:58,275 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:58,275 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:58,275 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:58,275 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:51:58,276 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,276 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,276 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,276 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,276 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,276 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:58,644 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:51:58,645 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,645 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,645 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,645 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,645 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,645 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:58,645 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:59,059 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:51:59,061 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,061 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,061 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,061 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,061 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,061 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,061 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,061 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:59,443 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:51:59,444 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,444 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,444 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,444 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,444 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,444 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,444 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,444 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:51:59,444 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:52:01,812 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:52:01,814 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:01,814 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:01,814 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:01,814 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:01,814 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:01,814 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:01,814 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:01,814 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:01,814 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:01,814 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:02,851 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:52:02,851 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:52:02,851 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:52:02,851 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:52:02,851 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:52:02,851 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:52:02,851 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:52:02,851 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:52:02,851 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:52:02,851 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:52:02,852 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:52:02,852 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:52:02,852 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:52:02,852 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:52:02,852 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:52:02,852 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:52:02,852 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:52:02,852 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:52:02,852 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:52:02,852 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:52:02,852 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:52:02,855 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:02,855 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:02,855 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:02,855 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:02,855 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:02,855 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:02,855 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:02,855 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:02,855 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:02,855 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:02,855 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,826 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:03,826 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:03,826 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:03,826 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:03,826 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:03,826 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:03,826 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:03,826 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:03,826 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:03,826 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:03,826 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,827 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:03,828 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,778 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,779 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:04,780 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/225 and Response:----<Response [200]>
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,805 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:52:05,806 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 17:53:02,373 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [200]>
+2024-07-25 17:53:02,374 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_single_user_schema.json
+2024-07-25 17:53:02,374 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_single_user_schema.json
+2024-07-25 17:53:02,376 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:02,376 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:02,884 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users data_payload:----{'name': 'piyush', 'job': 'QA Automation Tester'} header:----{}
+2024-07-25 17:53:02,884 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users data_payload:----{'name': 'piyush', 'job': 'QA Automation Tester'} header:----{}
+2024-07-25 17:53:02,884 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_user_schema.json
+2024-07-25 17:53:02,884 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_user_schema.json
+2024-07-25 17:53:02,884 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_user_schema.json
+2024-07-25 17:53:02,885 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:02,885 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:02,885 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:03,299 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:53:03,299 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:53:03,299 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 data_payload:----{'name': 'Pravin', 'job': 'QA tester'} header:----{}
+2024-07-25 17:53:03,299 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:53:03,299 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:53:03,299 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:53:03,299 - utils.generate_logs - INFO - taking a file from schema file name is valid_putApi_update_user_schema.json
+2024-07-25 17:53:03,300 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:03,300 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:03,300 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:03,300 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:04,248 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:53:04,248 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:53:04,248 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:53:04,248 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users/2 and Response:----<Response [204]>
+2024-07-25 17:53:04,330 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:53:04,330 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:53:04,330 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:53:04,330 - utils.generate_logs - INFO - URL:----https://reqres.in/api/unknown and Response:----<Response [200]>
+2024-07-25 17:53:04,330 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:53:04,330 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:53:04,330 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:53:04,330 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:53:04,330 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_unknown_user_schema.json
+2024-07-25 17:53:04,332 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:04,332 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:04,332 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:04,332 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:04,332 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:04,879 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:53:04,879 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:53:04,879 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:53:04,879 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:53:04,879 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user/2 and Response:----<Response [200]>
+2024-07-25 17:53:04,880 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:53:04,880 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:53:04,880 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:53:04,880 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:53:04,880 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:53:04,880 - utils.generate_logs - INFO - taking a file from schema file name is valid_patchApi_update_specific_data_schema.json
+2024-07-25 17:53:04,881 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:04,881 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:04,881 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:04,881 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:04,881 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:04,881 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,298 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:53:05,298 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:53:05,298 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:53:05,298 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:53:05,298 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:53:05,298 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'pistol'} header:----{}
+2024-07-25 17:53:05,299 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:53:05,299 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:53:05,299 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:53:05,299 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:53:05,299 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:53:05,299 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:53:05,299 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_register_new_user.json
+2024-07-25 17:53:05,300 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,300 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,300 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,300 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,300 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,300 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,300 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,665 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:53:05,665 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:53:05,665 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:53:05,665 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:53:05,665 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:53:05,665 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:53:05,665 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 17:53:05,666 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:53:05,666 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:53:05,666 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:53:05,666 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:53:05,666 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:53:05,666 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:53:05,666 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:53:05,666 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 17:53:05,667 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,667 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,667 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,667 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,667 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,667 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,667 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:05,667 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:06,131 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:53:06,131 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:53:06,131 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:53:06,131 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:53:06,131 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:53:06,131 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:53:06,131 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:53:06,131 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 17:53:06,132 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:53:06,132 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:53:06,132 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:53:06,132 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:53:06,132 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:53:06,132 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:53:06,132 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:53:06,132 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:53:06,132 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 17:53:06,133 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:06,133 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:06,133 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:06,133 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:06,133 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:06,133 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:06,133 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:06,133 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:06,133 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:08,662 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:53:08,662 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:53:08,662 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:53:08,662 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:53:08,662 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:53:08,662 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:53:08,662 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:53:08,662 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:53:08,662 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 17:53:08,663 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:53:08,663 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:53:08,663 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:53:08,663 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:53:08,663 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:53:08,663 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:53:08,663 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:53:08,663 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:53:08,663 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:53:08,663 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 17:53:08,665 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:08,665 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:08,665 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:08,665 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:08,665 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:08,665 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:08,665 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:08,665 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:08,665 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:08,665 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:09,643 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:53:09,643 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:53:09,643 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:53:09,643 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:53:09,643 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:53:09,643 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:53:09,643 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:53:09,643 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:53:09,643 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:53:09,643 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking and Response:----<Response [200]>
+2024-07-25 17:53:09,647 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:53:09,647 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:53:09,647 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:53:09,647 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:53:09,647 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:53:09,647 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:53:09,647 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:53:09,647 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:53:09,647 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:53:09,647 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:53:09,647 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_booker.json
+2024-07-25 17:53:09,655 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:09,655 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:09,655 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:09,655 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:09,655 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:09,655 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:09,655 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:09,655 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:09,655 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:09,655 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:09,655 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,621 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:10,623 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking data_payload:----{'firstname': 'piyush', 'lastname': 'dravyakar', 'totalprice': '1000', 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'} header:----{}
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,574 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_create_new_booking.json
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:11,576 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,530 - utils.generate_logs - INFO - URL:----https://restful-booker.herokuapp.com/booking/788 and Response:----<Response [200]>
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,531 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_getting_id_and_check_data.json
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
+2024-07-25 17:53:12,532 - utils.generate_logs - INFO - Validation is successful
