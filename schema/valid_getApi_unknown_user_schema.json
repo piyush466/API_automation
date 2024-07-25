@@ -1,0 +1,121 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "https://example.com/object1721886064.json",
+	"title": "Root",
+	"type": "object",
+	"required": [
+		"page",
+		"per_page",
+		"total",
+		"total_pages",
+		"data",
+		"support"
+	],
+	"properties": {
+		"page": {
+			"$id": "#root/page",
+			"title": "Page",
+			"type": "integer",
+			"default": 0
+		},
+		"per_page": {
+			"$id": "#root/per_page",
+			"title": "Per_page",
+			"type": "integer",
+			"default": 0
+		},
+		"total": {
+			"$id": "#root/total",
+			"title": "Total",
+			"type": "integer",
+			"default": 0
+		},
+		"total_pages": {
+			"$id": "#root/total_pages",
+			"title": "Total_pages",
+			"type": "integer",
+			"default": 0
+		},
+		"data": {
+			"$id": "#root/data",
+			"title": "Data",
+			"type": "array",
+			"default": [],
+			"items":{
+				"$id": "#root/data/items",
+				"title": "Items",
+				"type": "object",
+				"required": [
+					"id",
+					"name",
+					"year",
+					"color",
+					"pantone_value"
+				],
+				"properties": {
+					"id": {
+						"$id": "#root/data/items/id",
+						"title": "Id",
+						"type": "integer",
+						"default": 0
+					},
+					"name": {
+						"$id": "#root/data/items/name",
+						"title": "Name",
+						"type": "string",
+						"default": ""
+
+					},
+					"year": {
+						"$id": "#root/data/items/year",
+						"title": "Year",
+						"type": "integer",
+						"default": 0
+					},
+					"color": {
+						"$id": "#root/data/items/color",
+						"title": "Color",
+						"type": "string",
+						"default": ""
+
+					},
+					"pantone_value": {
+						"$id": "#root/data/items/pantone_value",
+						"title": "Pantone_value",
+						"type": "string",
+						"default": ""
+
+					}
+				}
+			}
+
+		},
+		"support": {
+			"$id": "#root/support",
+			"title": "Support",
+			"type": "object",
+			"required": [
+				"url",
+				"text"
+			],
+			"properties": {
+				"url": {
+					"$id": "#root/support/url",
+					"title": "Url",
+					"type": "string",
+					"default": ""
+
+				},
+				"text": {
+					"$id": "#root/support/text",
+					"title": "Text",
+					"type": "string",
+					"default": ""
+
+				}
+			}
+		}
+
+	}
+}

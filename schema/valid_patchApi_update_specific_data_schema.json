@@ -1,0 +1,35 @@
+{
+	"definitions": {},
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id": "https://example.com/object1721887259.json",
+	"title": "Root",
+	"type": "object",
+	"required": [
+		"name",
+		"job",
+		"updatedAt"
+	],
+	"properties": {
+		"name": {
+			"$id": "#root/name",
+			"title": "Name",
+			"type": "string",
+			"default": ""
+
+		},
+		"job": {
+			"$id": "#root/job",
+			"title": "Job",
+			"type": "string",
+			"default": ""
+
+		},
+		"updatedAt": {
+			"$id": "#root/updatedAt",
+			"title": "Updatedat",
+			"type": "string",
+			"default": ""
+
+		}
+	}
+}

@@ -1,0 +1,24 @@
+2024-07-25 12:57:21,517 - utils.generate_logs - INFO - URL:----https://reqres.in/api/login data_payload:----{'email': 'eve.holt@reqres.in', 'password': 'cityslicka'} header:----{}
+2024-07-25 12:57:21,517 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 12:57:21,517 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_login_user_schema.json
+2024-07-25 12:57:21,518 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 12:57:21,518 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 12:57:53,001 - utils.generate_logs - INFO - URL:----https://reqres.in/api/register data_payload:----{'email': 'eve.holt@reqres.in', 'password': ''} header:----{}
+2024-07-25 12:57:53,002 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 12:57:53,002 - utils.generate_logs - INFO - taking a file from schema file name is valid_postApi_unsuccses_register_schema.json
+2024-07-25 12:57:53,003 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 12:57:53,003 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 13:00:46,780 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user?delay=2 and Response:----<Response [200]>
+2024-07-25 13:03:37,761 - utils.generate_logs - INFO - URL:----https://reqres.in/api/user?delay=2 and Response:----<Response [200]>
+2024-07-25 13:03:37,762 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 13:03:37,762 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 13:05:11,514 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 13:05:11,515 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 13:05:11,515 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 13:05:11,517 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 13:05:11,517 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 13:10:40,556 - utils.generate_logs - INFO - URL:----https://reqres.in/api/users?delay=2 and Response:----<Response [200]>
+2024-07-25 13:10:40,557 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 13:10:40,557 - utils.generate_logs - INFO - taking a file from schema file name is valid_getApi_delay_response_schema.json
+2024-07-25 13:10:40,559 - utils.generate_logs - INFO - Validation is successfulNone
+2024-07-25 13:10:40,559 - utils.generate_logs - INFO - Validation is successfulNone
